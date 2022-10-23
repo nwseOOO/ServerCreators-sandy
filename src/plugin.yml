@@ -1,0 +1,5 @@
+name: core
+version: 3.0
+main: pl.yspar.core.CorePlugin
+author: yspar
+depend: [BungeeTabListPlus]

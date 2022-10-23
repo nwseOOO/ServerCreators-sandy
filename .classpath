@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Komputer/Desktop/pluginy/api/core yspar + api/craftbukkit-1.8.8-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Komputer/Desktop/megadrop/global-1/plugins/worldguard-6.0.0-beta-03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Komputer/Desktop/pluginy/api/core yspar + api/BungeeTabListPlus_BukkitBridge-2.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Komputer/Desktop/pluginy/api/core yspar + api/spigot-1.8.8-R0.1-SNAPSHOT-latest (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Komputer/Desktop/pluginy/api/core yspar + api/SpigotAPI 1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Komputer/Desktop/pluginy/api/core yspar + api/spigot-api-1.8.8-R0.1-SNAPSHOT-latest-shaded (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Komputer/Desktop/pluginy/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Komputer/Desktop/medhard/proxy1/Aegis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Komputer/Desktop/server creators/sandy/plugins/FastAsyncWorldEdit-bukkit-21.03.26-5ff3a9b-1286-22.3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
